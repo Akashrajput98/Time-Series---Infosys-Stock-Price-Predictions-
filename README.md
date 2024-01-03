@@ -5,3 +5,7 @@ The National Stock Exchange of India Ltd. (NSE) is an Indian stock exchange loca
 
 ### Timeline of Data recording
 1-1-2015 to 31-12-2015.
+
+### Source of Data 
+Kaggle : [National Stock Exchange : Time Series](https://www.kaggle.com/datasets/atulanandjha/national-stock-exchange-time-series/data)
+
