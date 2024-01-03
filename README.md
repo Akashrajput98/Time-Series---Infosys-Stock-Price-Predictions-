@@ -10,7 +10,7 @@ The National Stock Exchange of India Ltd. (NSE) is an Indian stock exchange loca
 Kaggle : [National Stock Exchange : Time Series](https://www.kaggle.com/datasets/atulanandjha/national-stock-exchange-time-series/data)
 
 ### Data Dictionary
-* Prev Close: Last day close point
+* **Prev Close:** Last day close point
 * Open: current day open point
 High: current day highest point
 Low: current day lowest point
