@@ -11,19 +11,14 @@ Kaggle : [National Stock Exchange : Time Series](https://www.kaggle.com/datasets
 
 ### Data Dictionary
 * **Prev Close:** Last day close point
-* Open: current day open point
-High: current day highest point
-Low: current day lowest point
-Last: the final quoted trading price for a particular stock, or stock-market index, during the most recent day of trading.
-Close: Closing point for the current day
-VWAP: volume-weighted average price is the ratio of the value traded to total volume traded over a particular time horizon
-Volume: the amount of a security that was traded during a given period of time. For every buyer, there is a seller, and each
-transaction contributes to the count of total volume.
-
-Turnover: Total Turnover of the stock till that day
-
-Trades: Number of buy or Sell of the stock.
-
-Deliverable: Volumethe quantity of shares which actually move from one set of people (who had those shares in their demat account before today and are selling today) to another set of people (who have purchased those shares and will get those shares by T+2 days in their demat account).
-
-%Deliverble: percentage deliverables of that stock
+* **Open:** current day open point
+* **High:** current day highest point
+* **Low:** current day lowest point
+* **Last:** the final quoted trading price for a particular stock, or stock-market index, during the most recent day of trading.
+* **Close:** Closing point for the current day
+* **VWAP:** volume-weighted average price is the ratio of the value traded to total volume traded over a particular time horizon
+* **Volume:** the amount of a security that was traded during a given period of time. For every buyer, there is a seller, and each transaction contributes to the count of total volume.
+* **Turnover:** Total Turnover of the stock till that day
+* **Trades:** Number of buy or Sell of the stock.
+* **Deliverable:** Volumethe quantity of shares which actually move from one set of people (who had those shares in their demat account before today and are selling today) to another set of people (who have purchased those shares and will get those shares by T+2 days in their demat account).
+* **%Deliverble:** percentage deliverables of that stock
